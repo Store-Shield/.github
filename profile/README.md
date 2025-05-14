@@ -54,3 +54,13 @@
 - CCTV 실시간 스트리밍
 - 알림 기능 및 원격 대응
 - 대시보드 형태의 핵심 지표 확인
+
+
+#### **시스템 구조도**
+![시스템 구조도](https://github.com/user-attachments/assets/af9ec3df-7a79-4f49-b5d3-287a5ff3f347)
+
+
+#### **전체 실행화면**
+![3  70조_이미지_작품 소개 사진](https://github.com/user-attachments/assets/22ce0dbf-7486-414b-93d2-97bc480e2d25)
+
+
