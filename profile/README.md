@@ -159,9 +159,9 @@
 
 | 레포지토리 | 설명 | 기술 스택 |
 |-----------|------|----------|
-| **[StoreShield-app](링크)** | 사장님용 관리 앱 | Flutter, Dart |
-| **[yolo-nas-app](링크)** | CCTV AI 영상 분석 앱 | Android (Java), YOLO-NAS |
-| **[server](링크)** | 백엔드 서버 및 키오스크 | Flask, Socket.IO, MySQL |
+| **[StoreShield-app](https://github.com/Store-Shield/StoreShield-app)** | 사장님용 관리 앱 | Flutter, Dart |
+| **[yolo-nas-app](https://github.com/Store-Shield/yolo-nas-app)** | CCTV AI 영상 분석 앱 | Android (Java), YOLO-NAS |
+| **[server](https://github.com/Store-Shield/server)** | 백엔드 서버 및 키오스크 | Flask, Socket.IO, MySQL |
 
 ---
 
